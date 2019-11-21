@@ -819,7 +819,9 @@ export const Localisations = {
     en: 'Update',
     es: 'Actualizar',
     it: 'Aggiorna',
-    nl: 'Bijwerken'
+    nl: 'Bijwerken',
+    pl: 'aktualizacja',
+    hb: 'לְעַדְכֵּן'
   },
   STATUS_LOADING: {
     da: 'Indlæser',
@@ -867,7 +869,9 @@ export const Localisations = {
     en: 'New Version Available',
     es: 'Nueva Versión Disponible',
     it: 'Nuova Versione Disponibile',
-    nl: 'Nieuwe Versie Beschikbaar'
+    nl: 'Nieuwe Versie Beschikbaar',
+    pl: 'Nowa wersja dostępna',
+    hb: 'גרסה חדשה זמינה'
   },
   STATUS_UPDATE_AVAILABLE_DESC: {
     da: 'Opdater din app, før du fortsætter.',
@@ -875,7 +879,9 @@ export const Localisations = {
     en: 'Please update your app before continuing.',
     es: 'Actualice su aplicación antes de continuar.',
     it: `Aggiorna l'app prima di continuare.`,
-    nl: 'Werk uw app bij voordat u doorgaat.'
+    nl: 'Werk uw app bij voordat u doorgaat.',
+    pl: 'Zaktualizuj aplikację przed kontynuowaniem.',
+    hb: 'עדכן את האפליקציה שלך לפני שתמשיך'
   },
   NOTIFICATION_TEST_REMINDER_NOW: {
     da: 'Testmeddelelse',
@@ -1109,7 +1115,7 @@ export const Localisations = {
   },
   TASK_BAR_NEXT_TASK: {
     da: 'Din næste opgave starter om ',
-    de: 'Ihre nächste Aufgabe started in ',
+    de: 'Ihre nächste Aufgabe beginnt in ',
     en: 'Your next task starts in ',
     es: 'La siguiente tarea comienza en ',
     it: 'La prossima attività inizierà tra ',
@@ -1119,7 +1125,7 @@ export const Localisations = {
   },
   TASK_BAR_NOW_TASK: {
     da: 'Din opgave starter ',
-    de: 'Deine Aufgabe started ',
+    de: 'Ihre Aufgabe startet ',
     en: 'Your task starts ',
     es: 'La tarea comienza ',
     it: 'Il tuo compito inizia ',
@@ -1145,7 +1151,7 @@ export const Localisations = {
     it: 'Ben fatto!',
     nl: 'Goed gedaan!',
     pl: 'Gratulacje!',
-    hb: ''
+    hb: 'כל הכבוד'
   },
   TASK_BAR_AFFIRMATION_2: {
     da: 'Alle opgaver er gennemført.',
